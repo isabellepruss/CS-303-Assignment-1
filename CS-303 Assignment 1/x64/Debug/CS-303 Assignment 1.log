@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\belle\Documents\UMKC\Comp Sci 303\CS-303 Assignment 1\CS-303 Assignment 1\Source.cpp(146,29): warning C4101: 'ex': unreferenced local variable
+C:\Users\belle\Documents\UMKC\Comp Sci 303\CS-303 Assignment 1\CS-303 Assignment 1\Source.cpp(118): warning C4715: 'modifyValue': not all control paths return a value
+C:\Users\belle\Documents\UMKC\Comp Sci 303\CS-303 Assignment 1\CS-303 Assignment 1\Source.cpp(236): warning C4715: 'replaceRemove': not all control paths return a value
+  CS-303 Assignment 1.vcxproj -> C:\Users\belle\Documents\UMKC\Comp Sci 303\CS-303 Assignment 1\x64\Debug\CS-303 Assignment 1.exe
